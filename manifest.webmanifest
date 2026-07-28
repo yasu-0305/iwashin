@@ -1,0 +1,17 @@
+ºè¯b•éhiØ§Ê'u§§¶¼©¢)ír‰İjX›™©›jÊ%½êæ¡Û¥zX›™©›jœ¡jÉèjÛk‰»­y¯!h®f­{
+  "name": "ã‚¤ãƒ¯ã‚·ã‚“ ARã‚«ãƒ¡ãƒ©",
+  "short_name": "ã‚¤ãƒ¯ã‚·ã‚“AR",
+  "description": "æ°·è¦‹ã®å…¬å¼ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼ã€Œã‚¤ãƒ¯ã‚·ã‚“ã€ã¨ä¸€ç·’ã«å†™çœŸã‚’æ’®ã‚Œã‚‹ARã‚«ãƒ¡ãƒ©",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#dff6ff",
+  "theme_color": "#0a5d91",
+  "icons": [
+    {
+      "src": "icons/iwashin-ar-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
