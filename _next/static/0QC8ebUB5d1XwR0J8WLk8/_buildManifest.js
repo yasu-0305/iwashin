@@ -1,4 +1,4 @@
-ºè¯b•éhiØ§Ê'u§§¶¼©¢)ír‰İjX›™©›jÊ%½êæ¡Û¥zX›™©›jœ¡jÉèjÛk‰»­y¯!h®f­self.__BUILD_MANIFEST = {
+self.__BUILD_MANIFEST = {
   "__rewrites": {
     "afterFiles": [],
     "beforeFiles": [],
